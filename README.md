@@ -1,12 +1,29 @@
-Fallen world
+Fallen world (symbolic repository)
 
-Video presentation: https://www.youtube.com/watch?v=oI14P1pZrvE&list=PLKjqaxlU8ZH_GMGLJz_0GcTbtj4zltgyu&index=1
+Full presentation: 
 
+https://www.youtube.com/watch?v=c2F95vKToys&list=PLKjqaxlU8ZH_GMGLJz_0GcTbtj4zltgyu&index=1
+ 
 
-This is only symbolic repository
+						Devlogs
 
-						Change logs
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+						Build 7: The map
+
+Added:
+
+The map window
+
+The minimap
+
+An example small map
+
+New monsters
+- Zombie
+- Pit Fiend
+
+27.04.24
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 						Build 6: The transportaton system
