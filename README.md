@@ -3,7 +3,7 @@ Fallen world (symbolic repository)
 Trial presentation:
 ![1](https://github.com/user-attachments/assets/7c6714b0-cd2e-41cc-8918-41646db79d9e)
 
-Full presentation: 
+Full presentation:
 https://www.youtube.com/watch?v=XnwWZ1aE-yk&list=PLKjqaxlU8ZH_GMGLJz_0GcTbtj4zltgyu&index=1
 
 						Devlogs
