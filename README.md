@@ -1,8 +1,7 @@
 Fallen world (symbolic repository)
 
 Trial presentation:
-
-![trial](https://github.com/klawir/FallenWorld/assets/1182204/df2e40e1-549c-4adf-959b-87fcd8ddd4af)
+![1](https://github.com/user-attachments/assets/7c6714b0-cd2e-41cc-8918-41646db79d9e)
 
 Full presentation: 
 
