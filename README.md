@@ -5,7 +5,7 @@ Trial presentation:
 
 Full presentation: 
 
-https://www.youtube.com/watch?v=c2F95vKToys&list=PLKjqaxlU8ZH_GMGLJz_0GcTbtj4zltgyu&index=1
+https://youtube.com/playlist?list=PLKjqaxlU8ZH_GMGLJz_0GcTbtj4zltgyu&si=mZXBYf55eZkslEjq
 
 						Devlogs
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
