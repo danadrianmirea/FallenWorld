@@ -9,7 +9,23 @@ Full presentation:
 https://www.youtube.com/watch?v=c2F95vKToys&list=PLKjqaxlU8ZH_GMGLJz_0GcTbtj4zltgyu&index=1
 
 						Devlogs
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+						Build 8: New character: Mage
+
+Added:
+
+New character
+- Mage
+
+Changed:
+
+Save system
+- Separated saving for each character
+- Separated loading with propose to pick
+
+
+28.07.24
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 						Build 7: The map
